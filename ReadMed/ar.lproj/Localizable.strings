@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  ReadMed
+
+  Created by ShahadQadi on 17/06/1444 AH.
+  
+*/
+"Find important information about your medicine.." = "يُمكنك إيجاد جميع المعلومات المتعلقة بدوائك هنا..";
+"Search" = "بحث";
+"Dosage:" = "الجرعة:";
+"Side Effects:" = "الآثارالجانبية:";
+"Medicine interactions:" = "تداخلات الدواء:";
+"Logo" = "شعار التطبيق";
+"Cancel Search" = "إلغاء البحث";
+"Back Button" = "الرجوع";
+
+//1-Medicine
+
+"Panadol Extra" = "باندول اكسترا";
+"It’s an extra effective pain relief, for adults, take 2 tablets every 4 hours as required. Do not take more than 8 tablets in 24 hours" = "ينتمي الباراسيتامول لمجموعة الآدوية المسكنة للآلام ، يستطيع البالغون أخذ حبتين كل ٤ ساعات حسب الجرعة المحددة ، مع عدم تجاوز الجرعة القصوى ٨ حبات لليوم الواحد";
+"Paracetamol has no common side effects, unless you are allergic to paracetamol or any of the other ingredients" = "لايوجد آثار جانبية شائعوة لهذا الدواء الا في حال التحسس من مادة الباراسيتامول أو من المكونات الأخرى";
+"Paracetamol increases the anticoagulant effect of Acenocoumarol, Asparaginase, Atorvastatin,Bedaquiline,Busulfan, Carbamazepine. DO NOT TAKE WITH ANY OTHER PARACETAMOL CONTAINING PRODUCTS" = "يزيد الباراسيتامول من التأثير المضاد للتخثر لأسينوكومارول، ألكتينيب،اسباراجيناز، أتورفاستاتين، بيداكويلين، بوسلفان،كاربامازيبين. لا تأخذ هذا الدواءأبدًا مع أي دواء آخر يحتوي على الباراسيتامول";
+
+//2-Medicine
+
+"Brufen" = "بورفين";
+
+"It is used to relieve pain from various conditions such as, dental pain, menstrual cramps. adult usually take 200-400 mg every 4-6 hours unless doctor directs you otherwise" = "يُستخدم الأيبوبروفين في تسكين الأوجاع و التخفيف من ألم الأسنان،و الإنقباضات المرافقة للدورة الشهرية. يمكن للبالغين أخذ ٢٠٠-٤٠٠ ملليغرام كل ٤-٦ ساعات";
+
+"Upset stomach, nausea, vomiting, diarrhea  commonly occur. If any of these effects last or get worse, tell your doctor or pharmacist promptly" = "الغثيان ، القيء، عسر الهضم من الاعراض شائعة الحدوث لهذا الدواء. يجب إيقافه في حال تطور هذه المضاعفات و ابلاغ الطبيب فورًا";
+
+"Some products that may interact with thisdrug include: aliskiren(such as captopril, lisinopril), angiotensin II receptor blockers (such as losartan, valsartan), cidofovir,lithium, water pills (diuretics such as furosemide)" = "بعض المنتجات التي قد تتفاعل مع هذا الدواء تشمل: أليسكرين (مثل كابتوبريل ، ليسينوبريل) ، حاصرات مستقبلات الأنجيوتنسين 2 (مثل لوسارتان ، فالسارتان) ، سيدوفوفير ، الكورتيكوستيرويدات (مثل بريدنيزون) ، الليثيوم ، حبوب الماء ( مدرات البول مثل فوروسيميد)";
+
+//3-Medicine
+
+"Lipitor" = "ليبيتور";
+
+"It is used along with a proper diet to help lower bad cholesterol. The dosage is based on your medical condition once a day at the same time" = "يُستخدم هذا الدواء للتقليل من مستويات الكولسترول الضار في الجسم، تحدد الجرعة حسب الحالة المرضية وتؤخذ في وقت واحد، مرة في اليوم";
+"Headache, abdominal pain and nausea are common to happen" = "الصداع، ألم البطن، والغثيان من الاعراض شائعة الحدوث لهذا الدواء. يجب ايقافه في حال تطور هذه المضاعفات وابلاغ الطبيب فوراً";
+"Some products that may interact with this drug include: daptomycin, gemfibrozil. Avoid eating or drinking grapefruit while using this medication" = "بعض المنتجات التي قد تتفاعل مع هذا الدواء تشمل: دابتومايسين ، جمفبروزيل.
+تجنب تناول أو شرب الجريب فروت أثناء استخدام هذا الدواء";
+
+//4-Medicine
+
+"Nifedipine" = "نيفيديبين";
+"It is used to treat severe chest pain or high blood pressure. Take it by mouth, usually 3 times daily as perscribed" = "يُستخدم هذا الدواء لعلاج أمراض القلب وارتفاع ضغط الدم ، تحدد الجرعة حسب الحالة المرضية وتؤخذ ٣ مرات في اليوم";
+"Dizziness, flushing, weakness, swelling ankles/feet, constipation, and headache may occur" = "الدوخة، الضعف، وذمات الساقين، الامساك، الصداع تعتبر جميعها من الاعراض شائعة الحدوث لهذا الدواء. يجب ايقافه في حال تطور هذه المضاعفات وابلاغ الطبيب فوراً";
+"These meducations may affect how nifedipine works: apalutamide, cimetidine, enzalutamide, mitotane, quinupristin/dalfopristin, rifabutin. drugs used to treat seizures (such as carbamazepine, phenytoin)" = "قد تؤثر هذه الأدوية على كيفية عمل نيفيديبين: أبالوتاميد ، سيميتيدين ، إنزالوتاميد ، ميتوتان ، كينوبريستين / دالفوبريستين ، ريفابوتين. الأدوية المستخدمة لعلاج النوبات (مثل كاربامازيبين ، الفينيتوين)";
+
+//5-Medicine
+
+"Levothyroxine" = "ليفوثيروكسين";
+"It provides more thyroid hormone to treat an underactive thyroid gland. Take it as perscribed once daily on an empty stomach, 30 minutes to 1 hour before breakfast" = "يُستخدم هذا الدواء كبديل اصطناعي للهرمون الطبيعي الذي تُنتجه الغدة الدرقية، تحدد الجرعة حسب الحالة المرضية وتؤخذ مرة في اليوم على معدة فارغة وقبل الافطار بساعة";
+"Hair loss may occur during the first few months of treatment. This effect is usually temporary as your body adjusts to this medication" = "يعتبر تساقط الشعر من الاعراض الممكن حدوثها في بداية العلاج ولكن سرعان مايختفي عند تعود الجسم عليه";
+"Some products that may interact with this drug include are: blood thinners (such as warfarin), digoxin, sucroferric oxyhydroxide" = "بعض المنتجات التي قد تتفاعل مع هذا
+الأدوية تشمل: مخففات الدم (مثل الوارفارين) ، الديجوكسين ، أوكسي هيدروكسيد السكروفين";

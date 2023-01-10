@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  ReadMed
+
+  Created by ShahadQadi on 17/06/1444 AH.
+  
+*/
+"Find important information about your medicine.." = "Find important information about your medicine..";
+"Search" = "Search";
+"Dosage:" = "Dosage:";
+"Side Effects:" = "Side Effects:";
+"Medicine interactions:" = "Medicine interactions:";
+//Medicine
+"Panadol Extra" = "Panadol Extra";
+
+"It’s an extra effective pain relief, for adults, take 2 tablets every 4 hours as required. Do not take more than 8 tablets in 24 hours" = "It’s an extra effective pain relief, for adults, take 2 tablets every 4 hours as required. Do not take more than 8 tablets in 24 hours";
+
+"Paracetamol has no common side effects, unless you are allergic to paracetamol or any of the other ingredients" = "Paracetamol has no common side effects, unless you are allergic to paracetamol or any of the other ingredients";
+
+"Paracetamol increases the anticoagulant effect of Acenocoumarol, Asparaginase, Atorvastatin,Bedaquiline,Busulfan, Carbamazepine. DO NOT TAKE WITH ANY OTHER PARACETAMOL CONTAINING PRODUCTS" = "Paracetamol increases the anticoagulant effect of Acenocoumarol, Asparaginase, Atorvastatin,Bedaquiline,Busulfan, Carbamazepine. DO NOT TAKE WITH ANY OTHER PARACETAMOL CONTAINING PRODUCTS";
+
+//New Med
+
+"Brufen" = "Brufen";
+
+"It is used to relieve pain from various conditions such as, dental pain, menstrual cramps. adult usually take 200-400 mg every 4-6 hours unless doctor directs you otherwise" = "It is used to relieve pain from various conditions such as, dental pain, menstrual cramps. adult usually take 200-400 mg every 4-6 hours unless doctor directs you otherwise";
+"Upset stomach, nausea, vomiting, diarrhea  commonly occur. If any of these effects last or get worse, tell your doctor or pharmacist promptly" = "Upset stomach, nausea, vomiting, diarrhea  commonly occur. If any of these effects last or get worse, tell your doctor or pharmacist promptly";
+"Some products that may interact with thisdrug include: aliskiren(such as captopril, lisinopril), angiotensin II receptor blockers (such as losartan, valsartan), cidofovir,lithium, water pills (diuretics such as furosemide)" = "Some products that may interact with thisdrug include: aliskiren(such as captopril, lisinopril), angiotensin II receptor blockers (such as losartan, valsartan), cidofovir,lithium, water pills (diuretics such as furosemide)";
+//New Med
+"Lipitor" = "Lipitor";
+"It is used along with a proper diet to help lower bad cholesterol. The dosage is based on your medical condition once a day at the same time" = "It is used along with a proper diet to help lower bad cholesterol. The dosage is based on your medical condition once a day at the same time";
+"Headache, abdominal pain and nausea
+are common to happen" = "Headache, abdominal pain and nausea
+are common to happen";
+"Some products that may interact with this
+drug include: daptomycin, gemfibrozil.
+Avoid eating or drinking grapefruit while using this medication" = "Some products that may interact with this
+drug include: daptomycin, gemfibrozil.
+Avoid eating or drinking grapefruit while using this medication";
+//New Med
+"Nifedipine" = "Nifedipine";
+"It is used to treat severe chest pain or high blood pressure. Take it by mouth, usually 3 times daily as perscribed" = "It is used to treat severe chest pain or high blood pressure. Take it by mouth, usually 3 times daily as perscribed";
+"Dizziness, flushing, weakness, swelling ankles/feet, constipation, and headache may occur" = "Dizziness, flushing, weakness, swelling ankles/feet, constipation, and headache may occur";
+"These meducations may affect how nifedipine works: apalutamide, cimetidine, enzalutamide, mitotane, quinupristin/dalfopristin, rifabutin. drugs used to treat seizures (such as carbamazepine, phenytoin)" = "These meducations may affect how nifedipine works: apalutamide, cimetidine, enzalutamide, mitotane, quinupristin/dalfopristin, rifabutin. drugs used to treat seizures (such as carbamazepine, phenytoin)";
+//New Med
+"Levothyroxine" = "Levothyroxine";
+"It provides more thyroid hormone to treat an underactive thyroid gland. Take it as perscribed once daily on an empty stomach, 30 minutes to 1 hour before breakfast" = "It provides more thyroid hormone to treat an underactive thyroid gland. Take it as perscribed once daily on an empty stomach, 30 minutes to 1 hour before breakfast";
+"Hair loss may occur during the first few months of treatment. This effect is usually temporary as your body adjusts to this medication" = "Hair loss may occur during the first few months of treatment. This effect is usually temporary as your body adjusts to this medication";
+"Some products that may interact with this
+drug include are: blood thinners (such as warfarin), digoxin, sucroferric oxyhydroxide" = "Some products that may interact with this
+drug include are: blood thinners (such as warfarin), digoxin, sucroferric oxyhydroxide";
+

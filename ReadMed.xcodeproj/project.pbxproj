@@ -8,17 +8,26 @@
 
 /* Begin PBXBuildFile section */
 		71BA757A296DE2BA001D5BB6 /* ReadMedApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BA7579296DE2BA001D5BB6 /* ReadMedApp.swift */; };
-		71BA757C296DE2BA001D5BB6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BA757B296DE2BA001D5BB6 /* ContentView.swift */; };
 		71BA757E296DE2BB001D5BB6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71BA757D296DE2BB001D5BB6 /* Assets.xcassets */; };
 		71BA7581296DE2BB001D5BB6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71BA7580296DE2BB001D5BB6 /* Preview Assets.xcassets */; };
+		71BA758A296DE34D001D5BB6 /* MedModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BA7589296DE34D001D5BB6 /* MedModel.swift */; };
+		71BA758C296DE37D001D5BB6 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BA758B296DE37D001D5BB6 /* SplashScreen.swift */; };
+		71BA758E296DE39C001D5BB6 /* MainScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BA758D296DE39C001D5BB6 /* MainScreen.swift */; };
+		71BA7590296DE3B7001D5BB6 /* ResultScrean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BA758F296DE3B7001D5BB6 /* ResultScrean.swift */; };
+		71BA7593296DE3FF001D5BB6 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 71BA7595296DE3FF001D5BB6 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		71BA7576296DE2BA001D5BB6 /* ReadMed.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReadMed.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71BA7579296DE2BA001D5BB6 /* ReadMedApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadMedApp.swift; sourceTree = "<group>"; };
-		71BA757B296DE2BA001D5BB6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		71BA757D296DE2BB001D5BB6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		71BA7580296DE2BB001D5BB6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		71BA7589296DE34D001D5BB6 /* MedModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedModel.swift; sourceTree = "<group>"; };
+		71BA758B296DE37D001D5BB6 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
+		71BA758D296DE39C001D5BB6 /* MainScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreen.swift; sourceTree = "<group>"; };
+		71BA758F296DE3B7001D5BB6 /* ResultScrean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultScrean.swift; sourceTree = "<group>"; };
+		71BA7594296DE3FF001D5BB6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		71BA7596296DE403001D5BB6 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,10 +60,12 @@
 		71BA7578296DE2BA001D5BB6 /* ReadMed */ = {
 			isa = PBXGroup;
 			children = (
+				71BA7588296DE2C9001D5BB6 /* Views */,
+				71BA7587296DE2C1001D5BB6 /* Models */,
 				71BA7579296DE2BA001D5BB6 /* ReadMedApp.swift */,
-				71BA757B296DE2BA001D5BB6 /* ContentView.swift */,
 				71BA757D296DE2BB001D5BB6 /* Assets.xcassets */,
 				71BA757F296DE2BB001D5BB6 /* Preview Content */,
+				71BA7595296DE3FF001D5BB6 /* Localizable.strings */,
 			);
 			path = ReadMed;
 			sourceTree = "<group>";
@@ -65,6 +76,24 @@
 				71BA7580296DE2BB001D5BB6 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		71BA7587296DE2C1001D5BB6 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				71BA7589296DE34D001D5BB6 /* MedModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		71BA7588296DE2C9001D5BB6 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				71BA758B296DE37D001D5BB6 /* SplashScreen.swift */,
+				71BA758D296DE39C001D5BB6 /* MainScreen.swift */,
+				71BA758F296DE3B7001D5BB6 /* ResultScrean.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -109,6 +138,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ar,
 			);
 			mainGroup = 71BA756D296DE2BA001D5BB6;
 			productRefGroup = 71BA7577296DE2BA001D5BB6 /* Products */;
@@ -126,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				71BA7581296DE2BB001D5BB6 /* Preview Assets.xcassets in Resources */,
+				71BA7593296DE3FF001D5BB6 /* Localizable.strings in Resources */,
 				71BA757E296DE2BB001D5BB6 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,12 +168,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				71BA757C296DE2BA001D5BB6 /* ContentView.swift in Sources */,
+				71BA7590296DE3B7001D5BB6 /* ResultScrean.swift in Sources */,
+				71BA758C296DE37D001D5BB6 /* SplashScreen.swift in Sources */,
+				71BA758A296DE34D001D5BB6 /* MedModel.swift in Sources */,
+				71BA758E296DE39C001D5BB6 /* MainScreen.swift in Sources */,
 				71BA757A296DE2BA001D5BB6 /* ReadMedApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		71BA7595296DE3FF001D5BB6 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				71BA7594296DE3FF001D5BB6 /* en */,
+				71BA7596296DE403001D5BB6 /* ar */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		71BA7582296DE2BB001D5BB6 /* Debug */ = {
