@@ -7,11 +7,11 @@
 
 Overveiw
 
-Rankit is a reference app that provides reviews of events that do not have a fixed location, and training camps. Which needs a rate to help users to know about events that suite them.
+//App OverView
 
 Proposed Solution
 
-To build an app that allows users to interact with occurring events by providing personal
+/*To build an app that allows users to interact with occurring events by providing personal
 feedback which can be used as a reference for other users who wish to attend the same
 event.
 
@@ -33,13 +33,13 @@ Success Criteria
 Project is completed on time
 Project meet the functionals requirements
 Project team satisfaction target is achieved
-Tools
+Tools*/
 
 [![SwiftUI][SwiftUI-img]][SwiftUI-url] [![Sketch][Sketch-img]][Sketch-url]
 
 Team
 
-PowerPuff
+Team 48
 
 <a href="https://www.linkedin.com/in/khulood-alhamed-73a837209/">Khulood Alhamed</a> - Wala Almuheef - <a href="https://www.linkedin.com/in/wedad-almehmadi-701476200/">Wedad Almehmadi</a> - Shahad Buhmail - Rand AlMuhanna
 
