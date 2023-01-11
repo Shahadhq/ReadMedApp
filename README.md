@@ -9,7 +9,7 @@ Overveiw:
 
 An app that provides a way for patients who need to get important leaflet information by summarizing them in an easy-to- read document.
 
-Proposed Solution
+Proposed Solution:
 
 To build an app for patients who need to be aware of complication's, side effects so that they get the right results of medecines
 
@@ -21,7 +21,7 @@ User stories:
 
 The user wants to find a medicin.
 The user wants to view medicine information.
-The user wants to view Dosage, Side Effect, and Medicine Interaction.
+The user wants to view summrizied information about Dosage, Side Effects, and Medicine Interaction.
 
 Success Criteria:
 
@@ -38,7 +38,8 @@ Team:
 
 Team 48
 
-<a href="https://www.linkedin.com/in/khulood-alhamed-73a837209/">Shahad Qadi</a> - <a href="https://www.linkedin.com/in/wedad-almehmadi-701476200/">Razan Rubui</a>
+<a href="https://www.linkedin.com/in/shahahd-qadi/">Shahad Qadi</a> - <a href="https://www.linkedin.com/in/razan-rubui-4a6228152/
+">Razan Rubui</a>
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [SwiftUI-img]: https://img.shields.io/badge/-SwiftUI-blue
