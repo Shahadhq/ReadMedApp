@@ -1,48 +1,45 @@
 # ReadMedApp
 <!-- PROJECT LOGO -->
 <div>
-<h3><img align="left" width="100" height="100" src="ReadMed.png"> <br/> ReadMed <br/>
+<h3><img align="left" width="100" height="100" src="ReadMedIcon.png"> <br/> ReadMed <br/>
 <a href="https://drive.google.com/file/d/1voRDPYBD59nTCgkxK2VCdDymXtrjr1hE/view?usp=share_link">Demo</a> <br/> <br/> </h3>
 </div>
 
-Overveiw
+Overveiw:
 
-//App OverView
+An app that provides a way for patients who need to get important leaflet information by summarizing them in an easy-to- read document.
 
-Proposed Solution
+Proposed Solution:
 
-/*To build an app that allows users to interact with occurring events by providing personal
-feedback which can be used as a reference for other users who wish to attend the same
-event.
+To build an app for patients who need to be aware of complication's, side effects so that they get the right results of medecines
 
-Problem Statment
+Problem Statment:
 
-Adults who need to view feedback about a desired event based on their interest in
-order to decide whether this event is valuable or a waste of time.
+Patients need an easy way to read perceptions to understand side effects and avoid complications
 
-User stories
+User stories:
 
-The user wants to create an account.
-The user wants to view events reviews, and ratings
-The user wants to write an event review.
-The event wants to rarte the event.
-The user wants to add an event in the wish list.
-The user wants to select her/his interest.
-Success Criteria
+1-The user wants to find a medicin.
+2-The user wants to view medicine information.
+3-The user wants to view summrizied information about Dosage, Side Effects, and Medicine Interaction.
 
-Project is completed on time
-Project meet the functionals requirements
-Project team satisfaction target is achieved
-Tools*/
+Success Criteria:
+
+1-Project is completed on time.
+2-Project meet the functionals requirements.
+3-Project team satisfaction target is achieved.
+4-Project support both VoiceOver and large and size text accessibilities.
+
+Tools:
 
 [![SwiftUI][SwiftUI-img]][SwiftUI-url] [![Sketch][Sketch-img]][Sketch-url]
 
-Team
+Team:
 
 Team 48
 
-<a href="https://www.linkedin.com/in/khulood-alhamed-73a837209/">Khulood Alhamed</a> - Wala Almuheef - <a href="https://www.linkedin.com/in/wedad-almehmadi-701476200/">Wedad Almehmadi</a> - Shahad Buhmail - Rand AlMuhanna
-
+<a href="https://www.linkedin.com/in/shahahd-qadi/">Shahad Qadi</a> - <a href="https://www.linkedin.com/in/razan-rubui-4a6228152/
+">Razan Rubui</a>
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [SwiftUI-img]: https://img.shields.io/badge/-SwiftUI-blue
