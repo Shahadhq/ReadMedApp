@@ -27,7 +27,7 @@ struct ResultScrean: View {
                     .resizable()
                     .aspectRatio(contentMode: .fill)
                     .frame(width: 150 , height: 150)
-                    .clipShape(RoundedRectangle(cornerRadius: 8))
+                    //.clipShape(RoundedRectangle(cornerRadius: 8))
                
                 ScrollView{
                 VStack(alignment: .leading, spacing: 10) {
@@ -83,7 +83,7 @@ struct ResultScrean: View {
                     
                 }
                 .padding()
-                .background(Color("LightGray"))
+                .background(Color("gray"))
                 .cornerRadius(16)
                 .padding()
                 
@@ -98,14 +98,14 @@ struct ResultScrean: View {
             
             .toolbar {
                 ToolbarItem(placement: .navigationBarLeading) {
-                    Image(systemName: "chevron.backward.circle")
+                    Image(systemName: "chevron.backward")
                         .accessibility(label:Text("Back Button"))
                         .foregroundColor(Color("Background"))
                         .font(Font.custom("SF Pro", size: 20))
                         .onTapGesture {
                             presentationMode.wrappedValue.dismiss()
                         }
-                        
+                        .padding(.horizontal,10)
                 }
             }
         }

@@ -22,9 +22,9 @@ struct SplashScreen: View {
                     Spacer()
                     Image("ReadMed",label: Text("Logo"))
                         .resizable()
-                        .aspectRatio(contentMode: .fill)
-                        .frame(width: 250 , height: 250)
-                        .clipShape(Circle())
+                        .aspectRatio(contentMode:.fill )
+                    .frame(width: 250 , height: 250)
+                       .clipShape(Circle())
                         //.accessibility(label: Text("Logo"))
                     Spacer()
                     

@@ -19,26 +19,27 @@ struct MainScreen: View {
                 VStack(alignment: .center){
                     
                     Spacer()
-                        .frame(height: 90)
+                        .frame(height: 130)
                     
                     Image("ReadMed")
                         .resizable()
-                        .aspectRatio(contentMode: .fill)
+                    .aspectRatio(contentMode: .fill)
                         .frame(width: 150 , height: 150)
                         .clipShape(Circle())
                         .accessibility(label: Text("Logo"))
-                    Spacer()
-                        .frame(height: 30)
-                    VStack(alignment:.leading,spacing: 1){
+
+                    VStack(alignment: .leading,spacing: 1){
                         Text("Find important information about your medicine..")
-                            .font(Font.custom("SF Pro", size: 20))
+                            .font(Font.custom("SF Pro", size: 17))
+
+                            .multilineTextAlignment(.leading)
                             .foregroundColor(Color("Background"))
                             .accessibility(label: Text("Find important information about your medicine.."))
                             .padding(.leading)
-                            
-                        showSearchText
                         
+                        showSearchText
                     }
+                    
                     VStack {
                         List{
                             ForEach(filtermediModle, id: \.id) { mediModle in
@@ -59,7 +60,8 @@ struct MainScreen: View {
                 }
                 
             
-        } .ignoresSafeArea()
+        } .ignoresSafeArea(.keyboard)
+        
     }
 }
 
@@ -75,7 +77,7 @@ extension MainScreen{
         HStack{
             
             Image(systemName: "magnifyingglass")
-                .foregroundColor(searchText.localized.isEmpty ? Color.white : Color.black)
+                .foregroundColor(Color.gray)
                 .accessibility(hidden: true)
             TextField("Search", text: $searchText)
                 .accessibility(value:Text("Search"))
@@ -84,7 +86,7 @@ extension MainScreen{
                         .accessibility(hidden: true)
                         .padding()
                         .offset(x: 140)
-                        .foregroundColor(Color.black)
+                        .foregroundColor(Color.gray)
                         .opacity(searchText.isEmpty ? 0.0 : 1)
                     
                         .onTapGesture {
@@ -92,7 +94,7 @@ extension MainScreen{
                         }
                 )
                 .onChange(of: searchText) { newValue in
-                    //print(newValue)
+                    
                     filtermediModle = mi.filter { mediModle in
             
                         mediModle.title.localized.lowercased().contains(newValue.lowercased())
@@ -107,7 +109,7 @@ extension MainScreen{
         .padding()
         .background(
             RoundedRectangle(cornerRadius: 8)
-                .fill(Color("Background"))
+                .fill(Color("gray"))
         )
         .padding()
     }
