@@ -38,8 +38,7 @@ Team:
 
 Team 48
 
-<a href="https://www.linkedin.com/in/khulood-alhamed-73a837209/">Shahad Qadi</a> - Wala Almuheef - <a href="https://www.linkedin.com/in/wedad-almehmadi-701476200/">Wedad Almehmadi</a> - Shahad Buhmail - Rand AlMuhanna
-
+<a href="https://www.linkedin.com/in/khulood-alhamed-73a837209/">Shahad Qadi</a> - <a href="https://www.linkedin.com/in/wedad-almehmadi-701476200/">Razan Rubui</a>
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [SwiftUI-img]: https://img.shields.io/badge/-SwiftUI-blue
