@@ -19,16 +19,16 @@ Patients need an easy way to read perceptions to understand side effects and avo
 
 User stories:
 
-The user wants to find a medicin.
-The user wants to view medicine information.
-The user wants to view summrizied information about Dosage, Side Effects, and Medicine Interaction.
+1-The user wants to find a medicin.
+2-The user wants to view medicine information.
+3-The user wants to view summrizied information about Dosage, Side Effects, and Medicine Interaction.
 
 Success Criteria:
 
-Project is completed on time.
-Project meet the functionals requirements.
-Project team satisfaction target is achieved.
-Project support both VoiceOver and large and size text accessibilities.
+1-Project is completed on time.
+2-Project meet the functionals requirements.
+3-Project team satisfaction target is achieved.
+4-Project support both VoiceOver and large and size text accessibilities.
 
 Tools:
 
