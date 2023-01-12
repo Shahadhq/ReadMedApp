@@ -24,7 +24,7 @@
 
 <br>1-Project is completed on time.</br>
 <br>2-Project meet the functionals requirements.</br>
-<br>3-Project Support Localization(Arabic and English) </br>
+<br>3-Project Support Localization(Arabic & English) </br>
 <br>4-Project support both VoiceOver and Smart Invert accessibility.</br>
 
 <h2>Tools:</h2>
