@@ -6,6 +6,7 @@
 </div>
 
 <h1>overView</h1>  
+*                     Bullet Point 1 Using *
 
 An app that provides a way for patients who need to get important leaflet information by summarizing them in an easy-to- read document.
 
