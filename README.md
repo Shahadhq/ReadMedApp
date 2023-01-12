@@ -20,12 +20,16 @@
 <br>A digital summery of medicine leaflet for patients, so that they can get the best reslut of the medicine.</br>
 
 
-<h2>Success Criteria:</h2>
+<h2>Accessbility Included :</h2>
 
-<br>1-Project is completed on time.</br>
-<br>2-Project meets the functionals requirements.</br>
-<br>3-Project Supports Localization(Arabic & English) </br>
-<br>4-Project supports both VoiceOver and Smart Invert accessibilities.</br>
+<br>1- VoiceOver
+<br>2-Smart Invert </br>
+
+<h2>Language Supported: :</h2>
+
+<br>1- English</br>
+<br>2- Arabic </br>
+
 
 <h2>Tools:</h2>
 
