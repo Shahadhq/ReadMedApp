@@ -16,6 +16,8 @@
 <h1> Solution Concept:  </h1>
 
 <br>a digital summery of medicine leaflet for patients so that they can get the best reslut of the medicine.</br>
+<h2>Challenge Summery: </h2>
+<h3><img align="left" width="100" height="100" src="ReadMed-Challenge-Summery.png">
 
 <h2> User stories: </h2>
 
