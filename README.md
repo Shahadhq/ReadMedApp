@@ -40,7 +40,7 @@
 ">Razan Rubui</a>
 
 
-<h2> Challenge Summery </h2>
+<h2> Challenge Summery: </h2>
  <img align="left" width="250" height="250" src="ReadMed-Challenge-Summery.png"> 
 
 
