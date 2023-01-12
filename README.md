@@ -16,18 +16,8 @@
 <h1> Solution Concept:  </h1>
 
 <br>a digital summery of medicine leaflet for patients so that they can get the best reslut of the medicine.</br>
-<div>
-#Challenge Summery: 
-<div>
-<h3><img align="left" width="100" height="100" src="ReadMed-Challenge-Summery.png"> <br/> <br/>
 
-</div>
-  
-<h2> User stories: </h2>
 
-<br>1-The user wants to find a medicin.</br>
-<br>2-The user wants to view medicine information.</br>
-<br>3-The user wants to view summrizied information about Dosage, Side Effects, and Medicine Interaction.</br>
 <h2>Success Criteria:</h2>
 
 <1-Project is completed on time.
@@ -35,9 +25,13 @@
 3-Project team satisfaction target is achieved.
 4-Project support both VoiceOver and large and size text accessibilities.
 
-Tools:
+<h2>Tools:</h2>
 
-[![SwiftUI][SwiftUI-img]][SwiftUI-url] [![Sketch][Sketch-img]][Sketch-url]
+[![SwiftUI][SwiftUI-img]][SwiftUI-url] [![Sketch][Sketch-img]][Sketch-url]. <div> 
+  
+  
+[![SwiftUI][ReadMed-Challenge-Summery.png]][ReadMed-Challenge-Summery.png]  
+
 
 Team:
 
