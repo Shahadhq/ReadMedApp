@@ -5,6 +5,11 @@
 <a href="https://drive.google.com/file/d/1voRDPYBD59nTCgkxK2VCdDymXtrjr1hE/view?usp=share_link">Demo</a> <br/> <br/> </h3>
 </div>
 
+ <div> 
+
+<img align="left" width="100" height="100" src="ReadMed-Challenge-Summery.png"> <br/> Challenge Summery<br/> 
+</div>
+
 <h1>Big Idea:</h1>  
 
 <br>Provide a digital leaflet medication information.</br>
@@ -28,10 +33,7 @@
 <h2>Tools:</h2>
 
 [![SwiftUI][SwiftUI-img]][SwiftUI-url] [![Sketch][Sketch-img]][Sketch-url]
- <div> 
- <h2>Challenge Summery:</h2> 
-<img align="left" width="100" height="100" src="ReadMed-Challenge-Summery.png">
-</div>
+
 
 <h2>Team:</h2>
 
