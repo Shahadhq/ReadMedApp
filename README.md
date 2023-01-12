@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <div>
 <h3><img align="left" width="100" height="100" src="ReadMed/Assets.xcassets/AppIcon.appiconset/Group 31024.png"> <br/> ReadMed <br/>
-<a href="https://drive.google.com/file/d/1voRDPYBD59nTCgkxK2VCdDymXtrjr1hE/view?usp=share_link">Demo</a> <br/> <br/> </h3>
+<a href="https://contattafiles.s3.us-west-1.amazonaws.com/tnt41680/x8HexNlb3XpYP0Q/ReadMed%20Demo.mp4">Demo</a> <br/> <br/> </h3>
 
 </div>
 
