@@ -19,7 +19,7 @@ struct MainScreen: View {
                 VStack(alignment: .center){
                     
                     Spacer()
-                        .frame(height: 130)
+                        .frame(height: 90)
                     
                     Image("ReadMed")
                         .resizable()

@@ -27,8 +27,7 @@ struct ResultScrean: View {
                     .resizable()
                     .aspectRatio(contentMode: .fill)
                     .frame(width: 150 , height: 150)
-                    //.clipShape(RoundedRectangle(cornerRadius: 8))
-               
+            
                 ScrollView{
                 VStack(alignment: .leading, spacing: 10) {
                     
@@ -82,12 +81,13 @@ struct ResultScrean: View {
                         .accessibility(label:Text(MediModle.medInt.localized))
                     
                 }
+                .frame(maxWidth: .infinity, maxHeight:.infinity)
                 .padding()
                 .background(Color("gray"))
                 .cornerRadius(16)
                 .padding()
                 
-                .ignoresSafeArea()
+                //.ignoresSafeArea()
                 
             }
                 
