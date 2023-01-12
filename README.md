@@ -1,4 +1,4 @@
-# ReadMedAp
+# ReadMedApp
 <!-- PROJECT LOGO -->
 <div>
 <h3><img align="left" width="100" height="100" src="ReadMed/Assets.xcassets/AppIcon.appiconset/Group 31024.png"> <br/> ReadMed <br/>
@@ -17,10 +17,12 @@
 
 <br>a digital summery of medicine leaflet for patients so that they can get the best reslut of the medicine.</br>
 <div>
-<h2>Challenge Summery: </h2>
+#Challenge Summery: 
+<div>
+<h3><img align="left" width="100" height="100" src="ReadMed-Challenge-Summery.png"> <br/> <br/>
 
-<h3><img align="left" width="100" height="100" src="ReadMed-Challenge-Summery.png">
 </div>
+  
 <h2> User stories: </h2>
 
 <br>1-The user wants to find a medicin.</br>
