@@ -20,29 +20,27 @@
 
 <h2>Success Criteria:</h2>
 
-<1-Project is completed on time.
-2-Project meet the functionals requirements.
-3-Project team satisfaction target is achieved.
-4-Project support both VoiceOver and Smart Invert accessibility.
+<br>1-Project is completed on time.</br>
+<br>2-Project meet the functionals requirements.</br>
+<br>3-Project team satisfaction target is achieved.</br>
+<br>4-Project support both VoiceOver and Smart Invert accessibility.</br>
 
 <h2>Tools:</h2>
 
 [![SwiftUI][SwiftUI-img]][SwiftUI-url] [![Sketch][Sketch-img]][Sketch-url]
-  
+ <div> 
  <h2>Challenge Summery:</h2> 
-[![SwiftUI][ReadMed-img]][ReadMed-img]
+<img align="left" width="100" height="100" src="ReadMed-Challenge-Summery.png">
+</div>
 
+<h2>Team:</h2>
 
-Team:
-
-Team 48
+<br>Team 48</br>
 
 <a href="https://www.linkedin.com/in/shahahd-qadi/">Shahad Qadi</a> - <a href="https://www.linkedin.com/in/razan-rubui-4a6228152/
 ">Razan Rubui</a>
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[ReadMed-img]: ReadMed-Challenge-Summery.png
-[ReadMed-url]: ReadMed-Challenge-Summery.png
 [SwiftUI-img]: https://img.shields.io/badge/-SwiftUI-blue
 [SwiftUI-url]: https://developer.apple.com/xcode/swiftui/
 [Sketch-img]: https://img.shields.io/badge/-Sketch-yellow
