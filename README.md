@@ -9,23 +9,23 @@
  
 <h1>Big Idea:</h1>  
 
-<br>Provide a digital leaflet medication information.</br>
+<br>Provide medication information.</br>
 
 <h1> Challenge Statment:  </h1>
 
-<br>It is our goal to provide a radable digital leaflet about medicine information. </br>
+<br>It is our goal to provide a readable digital leaflet about medicine information. </br>
 
 <h1> Solution Concept:  </h1>
 
-<br>A digital summery of medicine leaflet for patients so that they can get the best reslut of the medicine.</br>
+<br>A digital summery of medicine leaflet for patients, so that they can get the best reslut of the medicine.</br>
 
 
 <h2>Success Criteria:</h2>
 
 <br>1-Project is completed on time.</br>
-<br>2-Project meet the functionals requirements.</br>
-<br>3-Project Support Localization(Arabic & English) </br>
-<br>4-Project support both VoiceOver and Smart Invert accessibility.</br>
+<br>2-Project meets the functionals requirements.</br>
+<br>3-Project Supports Localization(Arabic & English) </br>
+<br>4-Project supports both VoiceOver and Smart Invert accessibilities.</br>
 
 <h2>Tools:</h2>
 
