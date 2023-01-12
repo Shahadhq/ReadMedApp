@@ -16,14 +16,37 @@
 <h1> Solution Concept:  </h1>
 
 <br>a digital summery of medicine leaflet for patients so that they can get the best reslut of the medicine.</br>
-
+<div>
 <h2>Challenge Summery: </h2>
 
 <h3><img align="left" width="100" height="100" src="ReadMed-Challenge-Summery.png">
-
+</div>
 <h2> User stories: </h2>
 
 <br>1-The user wants to find a medicin.</br>
 <br>2-The user wants to view medicine information.</br>
 <br>3-The user wants to view summrizied information about Dosage, Side Effects, and Medicine Interaction.</br>
+<h2>Success Criteria:</h2>
+
+<1-Project is completed on time.
+2-Project meet the functionals requirements.
+3-Project team satisfaction target is achieved.
+4-Project support both VoiceOver and large and size text accessibilities.
+
+Tools:
+
+[![SwiftUI][SwiftUI-img]][SwiftUI-url] [![Sketch][Sketch-img]][Sketch-url]
+
+Team:
+
+Team 48
+
+<a href="https://www.linkedin.com/in/shahahd-qadi/">Shahad Qadi</a> - <a href="https://www.linkedin.com/in/razan-rubui-4a6228152/
+">Razan Rubui</a>
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[SwiftUI-img]: https://img.shields.io/badge/-SwiftUI-blue
+[SwiftUI-url]: https://developer.apple.com/xcode/swiftui/
+[Sketch-img]: https://img.shields.io/badge/-Sketch-yellow
+[Sketch-url]: https://www.sketch.com
 
