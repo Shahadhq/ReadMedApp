@@ -3,7 +3,7 @@
 <div>
 <h3><img align="left" width="100" height="100" src="ReadMed/Assets.xcassets/AppIcon.appiconset/Group 31024.png"> <br/> ReadMed <br/>
 <a href="https://drive.google.com/file/d/1voRDPYBD59nTCgkxK2VCdDymXtrjr1hE/view?usp=share_link">Demo</a> <br/> <br/> </h3>
- <img align="left" width="200" height="200" src="ReadMed-Challenge-Summery.png"> <br/> Challenge Summery<br/> 
+
 </div>
 
  
@@ -39,10 +39,10 @@
 <a href="https://www.linkedin.com/in/shahahd-qadi/">Shahad Qadi</a> - <a href="https://www.linkedin.com/in/razan-rubui-4a6228152/
 ">Razan Rubui</a>
 
-<div> 
 
+<h2> Challenge Summery </h2>
+ <img align="left" width="200" height="200" src="ReadMed-Challenge-Summery.png"> 
 
-</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
