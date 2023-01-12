@@ -41,7 +41,7 @@
 
 
 <h2> Challenge Summery </h2>
- <img align="left" width="500" height="500" src="ReadMed-Challenge-Summery.png"> 
+ <img align="left" width="250" height="250" src="ReadMed-Challenge-Summery.png"> 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
