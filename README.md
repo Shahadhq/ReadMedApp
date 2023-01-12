@@ -7,7 +7,7 @@
 
 <h1>Big Idea:</h1>  
 
-Health
+<br>Provide a digital leaflet medication information.</br>
 
 <h1> challenge Statment:  </h1>
 
@@ -23,9 +23,9 @@ Health
 <br>2-The user wants to view medicine information.</br>
 <br>3-The user wants to view summrizied information about Dosage, Side Effects, and Medicine Interaction.</br>
 
-Success Criteria:
+<h2>Success Criteria:</h2>
 
-1-Project is completed on time.
+<1-Project is completed on time.
 2-Project meet the functionals requirements.
 3-Project team satisfaction target is achieved.
 4-Project support both VoiceOver and large and size text accessibilities.
