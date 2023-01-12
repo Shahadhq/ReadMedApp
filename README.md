@@ -9,7 +9,7 @@
  
 <h1>Big Idea:</h1>  
 
-<br>Provide medication information.</br>
+<br>Make an inclusive  solution that increases health awareness</br>
 
 <h1> Challenge Statment:  </h1>
 
