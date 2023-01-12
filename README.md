@@ -27,10 +27,10 @@
 
 <h2>Tools:</h2>
 
-[![SwiftUI][SwiftUI-img]][SwiftUI-url] [![Sketch][Sketch-img]][Sketch-url]. <div> 
+[![SwiftUI][SwiftUI-img]][SwiftUI-url] [![Sketch][Sketch-img]][Sketch-url].
   
   
-[![SwiftUI][ReadMed-Challenge-Summery.png]][ReadMed-Challenge-Summery.png]  
+[![SwiftUI][SwiftUI-img]][SwiftUI-img]
 
 
 Team:
@@ -41,8 +41,7 @@ Team 48
 ">Razan Rubui</a>
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[SwiftUI-img]: https://img.shields.io/badge/-SwiftUI-blue
-[SwiftUI-url]: https://developer.apple.com/xcode/swiftui/
-[Sketch-img]: https://img.shields.io/badge/-Sketch-yellow
-[Sketch-url]: https://www.sketch.com
+[SwiftUI-img]: ReadMed-Challenge-Summery.png
+[SwiftUI-url]: ReadMed-Challenge-Summery.png
+
 
