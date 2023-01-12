@@ -22,7 +22,7 @@
 
 <h2>Accessbility Included :</h2>
 
-<br>1- VoiceOver
+<br>1- VoiceOver</br>
 <br>2-Smart Invert </br>
 
 <h2>Language Supported: :</h2>
