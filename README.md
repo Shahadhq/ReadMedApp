@@ -5,11 +5,7 @@
 <a href="https://drive.google.com/file/d/1voRDPYBD59nTCgkxK2VCdDymXtrjr1hE/view?usp=share_link">Demo</a> <br/> <br/> </h3>
 </div>
 
- <div> 
-
-<img align="left" width="100" height="100" src="ReadMed-Challenge-Summery.png"> <br/> Challenge Summery<br/> 
-</div>
-
+ 
 <h1>Big Idea:</h1>  
 
 <br>Provide a digital leaflet medication information.</br>
@@ -41,6 +37,12 @@
 
 <a href="https://www.linkedin.com/in/shahahd-qadi/">Shahad Qadi</a> - <a href="https://www.linkedin.com/in/razan-rubui-4a6228152/
 ">Razan Rubui</a>
+
+<div> 
+
+<img align="left" width="100" height="100" src="ReadMed-Challenge-Summery.png"> <br/> Challenge Summery<br/> 
+</div>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [SwiftUI-img]: https://img.shields.io/badge/-SwiftUI-blue
