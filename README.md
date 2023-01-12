@@ -11,13 +11,13 @@
 
 <br>Provide a digital leaflet medication information.</br>
 
-<h1> challenge Statment:  </h1>
+<h1> Challenge Statment:  </h1>
 
 <br>It is our goal to provide a radable digital leaflet about medicine information. </br>
 
 <h1> Solution Concept:  </h1>
 
-<br>a digital summery of medicine leaflet for patients so that they can get the best reslut of the medicine.</br>
+<br>A digital summery of medicine leaflet for patients so that they can get the best reslut of the medicine.</br>
 
 
 <h2>Success Criteria:</h2>
