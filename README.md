@@ -23,14 +23,14 @@
 <1-Project is completed on time.
 2-Project meet the functionals requirements.
 3-Project team satisfaction target is achieved.
-4-Project support both VoiceOver and large and size text accessibilities.
+4-Project support both VoiceOver and Smart Invert accessibility.
 
 <h2>Tools:</h2>
 
-[![SwiftUI][SwiftUI-img]][SwiftUI-url] [![Sketch][Sketch-img]][Sketch-url].
+[![SwiftUI][SwiftUI-img]][SwiftUI-url] [![Sketch][Sketch-img]][Sketch-url]
   
  <h2>Challenge Summery:</h2> 
-[![ReadMed][ReadMed-img]][ReadMed-img]
+[![SwiftUI][ReadMed-img]][ReadMed-img]
 
 
 Team:
