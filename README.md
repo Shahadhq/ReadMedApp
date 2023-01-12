@@ -1,4 +1,4 @@
-# ReadMedApp
+# ReadMedAp
 <!-- PROJECT LOGO -->
 <div>
 <h3><img align="left" width="100" height="100" src="ReadMed/Assets.xcassets/AppIcon.appiconset/Group 31024.png"> <br/> ReadMed <br/>
