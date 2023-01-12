@@ -5,24 +5,23 @@
 <a href="https://drive.google.com/file/d/1voRDPYBD59nTCgkxK2VCdDymXtrjr1hE/view?usp=share_link">Demo</a> <br/> <br/> </h3>
 </div>
 
-<h1>overView</h1>  
-**Text** 
+<h1>Big Idea:</h1>  
 
-An app that provides a way for patients who need to get important leaflet information by summarizing them in an easy-to- read document.
+Health
 
-Proposed Solution:
+<h1> challenge Statment:  </h1>
 
-To build an app for patients who need to be aware of complication's, side effects so that they get the right results of medecines
+<br>It is our goal to provide a radable digital leaflet about medicine information. </br>
 
-Problem Statment:
+<h1> Solution Concept:  </h1>
 
-Patients need an easy way to read perceptions to understand side effects and avoid complications
+<br>a digital summery of medicine leaflet for patients so that they can get the best reslut of the medicine.</br>
 
-User stories:
+<h2> User stories: </h2>
 
-1-The user wants to find a medicin.
-2-The user wants to view medicine information.
-3-The user wants to view summrizied information about Dosage, Side Effects, and Medicine Interaction.
+<br>1-The user wants to find a medicin.</br>
+<br>2-The user wants to view medicine information.</br>
+<br>3-The user wants to view summrizied information about Dosage, Side Effects, and Medicine Interaction.</br>
 
 Success Criteria:
 
